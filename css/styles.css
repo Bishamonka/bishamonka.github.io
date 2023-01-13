@@ -1,0 +1,36 @@
+body {
+    background-color: #E7F6F2;
+    margin: 32px;
+}
+
+/* FONTS */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Fira Sans", sans-serif;
+    color: #395B64;
+}
+
+p {
+    font-family: "Fira Sans", sans-serif;
+    color: #2C3333;
+}
+
+table {
+    font-family: "Fira Sans", sans-serif;
+    color: #2C3333;
+}
+
+ul {
+    font-family: "Fira Sans", sans-serif;
+    color: #2C3333;
+}
+
+/* ELEMENTS */
+
+hr {
+    width: 64px;
+    border-style: dotted none none;
+    border-width: 6px;
+    border-color: #DBE2EF;
+    margin: 40px 0px;
+}
